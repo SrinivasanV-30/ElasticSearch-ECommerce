@@ -1,2 +1,1 @@
 # ElasticSearch-ECommerce
-# ElasticSearch-ECommerce
